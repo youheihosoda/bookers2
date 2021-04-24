@@ -1,0 +1,36 @@
+// Place all the styles related to the bookers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.update{
+  margin-top:15px;
+}
+
+.edittingbook{
+   width: 80%;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.text_area{
+  padding:0 100px;
+   width: 100%;
+  padding: 0 0 0px;
+  margin-left: 0;
+}
+
+.text_area2{
+  padding:0 100px;
+   width: 100%;
+  padding: 0 0 20px;
+  margin-left: 0;
+   white-space: pre-wrap;
+}
+
+.notice{
+  color:red;
+}
+
+.notice2{
+  color:red;
+}
